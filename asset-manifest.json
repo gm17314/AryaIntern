@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AryaIntern/static/css/main.3e5aa098.css",
+    "main.js": "/AryaIntern/static/js/main.618830d0.js",
+    "static/js/787.dd0d71df.chunk.js": "/AryaIntern/static/js/787.dd0d71df.chunk.js",
+    "index.html": "/AryaIntern/index.html",
+    "main.3e5aa098.css.map": "/AryaIntern/static/css/main.3e5aa098.css.map",
+    "main.618830d0.js.map": "/AryaIntern/static/js/main.618830d0.js.map",
+    "787.dd0d71df.chunk.js.map": "/AryaIntern/static/js/787.dd0d71df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5aa098.css",
+    "static/js/main.618830d0.js"
+  ]
+}
